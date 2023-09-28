@@ -1,5 +1,5 @@
 # Etude-de-marche-exportations
-Réalisation d'une étude de marché visant à déterminer les pays propices à nos exportations
+## Réalisation d'une étude de marché visant à déterminer les pays propices à nos exportations
 
 *Projet réalisé dans le cadre de la formation DATA Analyst de l'organisme Openclassrooms*  
 
